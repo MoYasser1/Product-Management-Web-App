@@ -1,0 +1,16 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "axe/text-alternatives": [
+      "default",
+      {
+        "document-title": "off"
+      }
+    ],
+    "button-type": "off",
+    "meta-charset-utf-8": "off",
+    "meta-viewport": "off"
+  }
+}
