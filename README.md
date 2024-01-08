@@ -8,7 +8,7 @@ This project is a simple web application for managing a list of products. It pro
 
 ## Demo
 
-You can try out the live demo [here](https://moyasser1.github.io/project-11/).
+You can try out the live demo [here](https://moyasser1.github.io/Product-Management-Web-App).
 
 ### Prerequisites
 
